@@ -2,7 +2,7 @@
 
 I'm currently working as a quant dev in a crypto hedge fund, learning to implement low latency trading systems, data services and arbitraging strategies. <br>
 
-Python and C++ are my languages. Now, I am learning the Rust🦀. <br>
+Python and C++ are my languages. Now, I am learning the Rust🦀 by implementing my own trading infra. <br>
 
 I record my hand-on experiences and paper digest in the following Quant_Notes repo.
 
